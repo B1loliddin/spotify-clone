@@ -1,0 +1,80 @@
+name: spotify_clone
+description: "Spotify clone"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # icons
+  cupertino_icons: ^1.0.8
+
+  # images
+  flutter_svg: ^2.0.10+1
+
+  # state management
+  bloc: ^8.1.4
+
+  # widgets
+  flutter_bloc: ^8.1.6
+
+  # state management
+  hydrated_bloc: ^9.1.5
+
+  # phone path
+  path_provider: ^2.1.4
+
+  # firebase core
+  firebase_core: ^2.24.2
+
+  # auth
+  firebase_auth: ^4.16.0
+
+  # service locator
+  get_it: ^7.7.0
+
+  # database
+  cloud_firestore: ^4.14.0
+
+  # database for files
+  firebase_storage: ^11.6.7
+
+  # transparent image
+  transparent_image: ^2.0.1
+
+  # audio controller
+  just_audio: ^0.9.39
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/vectors/
+
+  fonts:
+    - family: Satoshi
+      fonts:
+        - asset: assets/fonts/Satoshi-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Satoshi-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Satoshi-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Satoshi-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Satoshi-Black.ttf
+          weight: 900
