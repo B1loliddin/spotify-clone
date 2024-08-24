@@ -2,6 +2,7 @@
 
 This app is just a spotify clone.
 [reference link](https://www.youtube.com/watch?v=4TFbXepOjLI&list=WL&index=3)
+[figma design](https://www.figma.com/design/WE2HZ3auWj3zGZQskGeHRf/Spotify-Light-and-Dark?node-id=0-1&t=iAE888rY79CGGcHV-0)
 
 ## Table of Contents
 
