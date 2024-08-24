@@ -1,7 +1,7 @@
 # Spotify Clone
 
 This app is just a spotify clone.
-[reference link](https://www.youtube.com/watch?v=4TFbXepOjLI&list=WL&index=3)
+[reference link](https://youtu.be/I1Pv0vQwT7I)
 
 ## Table of Contents
 
